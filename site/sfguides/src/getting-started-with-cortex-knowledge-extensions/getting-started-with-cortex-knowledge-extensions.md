@@ -311,6 +311,7 @@ Congratulations - you made a Cortex Knowledge Extension! CKEs are great tools fo
 
 ### Related Resources
 - [Cortex Search overview](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/cortex-search-overview)
+- [Cortex Search tutorials](https://docs.snowflake.com/en/user-guide/snowflake-cortex/cortex-search/overview-tutorials)
 - [Creating a RAG app using Cortex Search and Cortex Complete](https://quickstarts.snowflake.com/guide/ask_questions_to_your_own_documents_with_snowflake_cortex_search/index.html#0)
 - [Becoming a listing provider](https://other-docs.snowflake.com/en/collaboration/provider-becoming)
 - [Creating and publishing listings](https://other-docs.snowflake.com/en/collaboration/provider-listings-creating-publishing)
